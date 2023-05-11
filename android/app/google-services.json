@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "251990031897",
+    "project_id": "nexthour-5a9a6",
+    "storage_bucket": "nexthour-5a9a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251990031897:android:ba673573a2c6080817b488",
+        "android_client_info": {
+          "package_name": "com.mediacity.nexthour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251990031897-f8g3trgom1n4i309ha48tbk6t8mmmtjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediacity.nexthour",
+            "certificate_hash": "4870f7dfd338e1559c5f0712e92257dc54bcb3ab"
+          }
+        },
+        {
+          "client_id": "251990031897-bnvpdvnjuul033glr0k27b5kj56rtkia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6z5NfhRJFRduVf_2HEChNkUvluBTjfYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251990031897-bnvpdvnjuul033glr0k27b5kj56rtkia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

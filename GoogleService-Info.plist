@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>298634076382-vkmmehs40lp30uun2c0veke5t87b2r46.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.298634076382-vkmmehs40lp30uun2c0veke5t87b2r46</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>298634076382-mri9j7hpcv8joeo6d7fue2l82pqnvtle.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5YWKZ825LfvjFV0tFMn9F662Zkrb_21U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>298634076382</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mediacity.nexthour</string>
+	<key>PROJECT_ID</key>
+	<string>nexthour-f7e37</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nexthour-f7e37.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:298634076382:ios:cfdba8d267345aa984624f</string>
+	<key>DATABASE_URL</key>
+	<string>https://nexthour-f7e37-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
